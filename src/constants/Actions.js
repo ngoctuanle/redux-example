@@ -1,0 +1,5 @@
+export const GET_LINKS_REQUEST = 'GET_LINKS_REQUEST';
+export const GET_LINKS_SUCCESS = 'GET_LINKS_SUCCESS';
+export const GET_LINKS_FAIL = 'GET_LINKS_FAIL';
+export const SAVE_LINK = 'SAVE_LINK';
+export const REMOVE_LINK = 'REMOVE_LINK';
